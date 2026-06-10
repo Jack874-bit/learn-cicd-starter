@@ -4,6 +4,8 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 
 ## Local Development
 
+[![ci](https://github.com/Jack874-bit/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Jack874-bit/learn-cicd-starter/actions/workflows/ci.yml)
+
 Make sure you're on Go version 1.22+.
 
 Create a `.env` file in the root of the project with the following contents:
@@ -21,3 +23,6 @@ go build -o notely && ./notely
 *This starts the server in non-database mode.* It will serve a simple webpage at `http://localhost:8080`.
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
+
+
+Jack's version of Boot.dev's Notely app.
