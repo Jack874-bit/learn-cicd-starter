@@ -4,6 +4,8 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 
 ## Local Development
 
+[![ci](https://github.com/Jack874-bit/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Jack874-bit/learn-cicd-starter/actions/workflows/ci.yml)
+
 Make sure you're on Go version 1.22+.
 
 Create a `.env` file in the root of the project with the following contents:
